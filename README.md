@@ -23,8 +23,8 @@ The final step of this project was to pitch our idea to the class. Below you wil
 
 ## Images
 [View all images](./Images "Images folder")
-<img src="./Images/Sketch00.jpg" alt="Earliest draft of the vehicle design">
-<img src="./Images/Sketch01.png" alt="Early draft of the vehicle design">
+![Earliest draft of the vehicle design](./Images/Sketch00.jpg "Earlist sketch")
+![Early draft of the vehicle design](./Images/Sketch01.png "Earlist sketch")
 
 ## Team Members
 Yasmeen Hernandez | Brian Massura | Ben Ng
