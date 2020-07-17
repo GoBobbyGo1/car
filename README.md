@@ -8,6 +8,7 @@
   * [Final 3D model](#final-3d-model)
 * [Setup](#setup)
 * [Status](#status)
+* [Inspiration](#inspiration)
 * [Team Members](#team-members)
 
 ## General Info
@@ -40,6 +41,9 @@ You can find all of the assemblies (.iam) and parts (.ipt) for our final 3D mode
 
 ## Status
 Project is: _in progress_
+
+## Inspiration
+Project inspired by [GoBabyGo](https://sites.udel.edu/gobabygo/ "UD Mobility Technology | GoBabyGo!").
 
 ## Team Members
 Yasmeen Hernandez | Brian Massura | Ben Ng
