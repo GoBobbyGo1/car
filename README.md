@@ -1,6 +1,5 @@
-# Introduction
-
-This project was developed for IPRO 497 Social Innovation at Illinois tech.
+# GoBobbyGo
+> GoBobbyGo is a product pitch developed for the IPRO 497-414 Social Innovation & Design Thinking course at Illinois Tech.
 
 ### Developed by
 Yasmeen Hernandez | Brian Massura | Ben Ng
