@@ -48,6 +48,6 @@ Project inspired by [GoBabyGo](https://sites.udel.edu/gobabygo/ "UD Mobility Tec
 ## Team Members
 Research & Development: Yasmeen Hernandez, Brian Massura, Ben Ng, Shannon O'Donnell, Alex Riegler, Rachel Wiesbrock
 
-CAD Modelers: Ben Ng, Shannon O'Donnell
+CAD Modeling: Ben Ng, Shannon O'Donnell
 
-Github Maintainer: Alex Riegler
+Github Maintenance: Alex Riegler
