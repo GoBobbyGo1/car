@@ -19,11 +19,10 @@ Following the creation of our persona, we began our research for our project. Ev
 
 The final step of this project was to pitch our idea to the class. Below you will find the slides presentation when they are completed.
 
-## Media
-
 # "Slides" (Placeholder) 
 
-
+## Media
+![Early draft of the vehicle design](./Images/Sketch01.png "Early sketch")
 
 ## Team Members
 Yasmeen Hernandez | Brian Massura | Ben Ng
