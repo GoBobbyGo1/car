@@ -22,6 +22,7 @@ The final step of this project was to pitch our idea to the class. Below you wil
 # "Slides" (Placeholder) 
 
 ## Images
+[View all images](./Images "Images folder")
 <img src="./Images/Sketch00.jpg" alt="Earliest draft of the vehicle design">
 <img src="./Images/Sketch01.png" alt="Early draft of the vehicle design">
 
