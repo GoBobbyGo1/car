@@ -25,6 +25,10 @@ The final step of this project was to pitch our idea to the class. Below you wil
 ### Early draft of the vehicle design
 ![Early draft of the vehicle design](./Images/Sketch01.png "Earlist sketch")
 
+### Final 3D model
+![Final 3D model of the vehicle](./Images/FinalCarModel00.png "Final car model")
+![Final 3D model of the steering wheel](./Images/FinalSteeringWheelModel00.png "Final steering wheel model")
+
 [View all images](./Images "Images folder")
 
 ## Team Members
