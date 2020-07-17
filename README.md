@@ -6,7 +6,7 @@
 * [Team Members](#team-members)
 * [Media](#media)
 
-# General Info
+## General Info
 This project began with the intention of working with the [GoBabyGo program](https://sites.udel.edu/gobabygo/ "UD Mobility Technology | GoBabyGo!") of the charity organization [Variety of Illinois](https://www.varietyofillinois.org/ "Variety of Illinois"). Unfortunately, plans changed due to unforseen circumstances. Instead of working with Variety, we instead set out to achieve the same goal as the GoBabyGo program despite not having an actual client to work with. We began by constructing a persona, Bobby.
 
 Bobby is a 7 year old child, paralyzed from the waist down. He is trying to drive a toy electric car but he has trouble operating it. He has trouble because his physical disability prevents him from using the car’s braking and acceleration pedals and he is unable to get himself into the car by himself. These factors combine to make him feel left out and not included in his neighborhood when the other children are playing with their cars.
