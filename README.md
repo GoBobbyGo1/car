@@ -4,6 +4,7 @@
 ## Table of Contents
 * [General Info](#general-info)
 * [Team Members](#team-members)
+* [Media](#media)
 
 # General Info
 This project began with the intention of working with the [GoBabyGo program](https://sites.udel.edu/gobabygo/ "UD Mobility Technology | GoBabyGo!") of the charity organization [Variety of Illinois](https://www.varietyofillinois.org/ "Variety of Illinois"). Unfortunately, plans changed due to unforseen circumstances. Instead of working with Variety, we instead set out to achieve the same goal as the GoBabyGo program despite not having an actual client to work with. We began by constructing a persona, Bobby.
@@ -18,7 +19,11 @@ Following the creation of our persona, we began our research for our project. Ev
 
 The final step of this project was to pitch our idea to the class. Below you will find the slides presentation when they are completed.
 
+## Media
+
 # "Slides" (Placeholder) 
+
+
 
 ## Team Members
 Yasmeen Hernandez | Brian Massura | Ben Ng
