@@ -6,6 +6,7 @@
 * [Images](#images)
   * [Early draft of the vehicle design](#early-draft-of-the-vehicle-design)
   * [Final 3D model](#final-3d-model)
+* [Setup](#setup)
 * [Team Members](#team-members)
 
 ## General Info
@@ -32,6 +33,9 @@ The final step of this project was to pitch our idea to the class. Below you wil
 ![Final 3D model of the steering wheel](./Images/FinalSteeringWheelModel00.png "Final steering wheel model")
 
 [View all images](./Images "Images folder")
+
+## Setup
+You can find all of the assemblies (.iam) and parts (.ipt) for our final 3D model within this repository. All of the non-custom parts can be found on [GrabCAD](https://grabcad.com/ "GrabCAD"). Of course, we did not physically fabricate our vehicle so we cannot guarantee that the vehicle is actually real-world ready.
 
 ## Team Members
 Yasmeen Hernandez | Brian Massura | Ben Ng
