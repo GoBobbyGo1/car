@@ -46,5 +46,8 @@ Project is: _in progress_
 Project inspired by [GoBabyGo](https://sites.udel.edu/gobabygo/ "UD Mobility Technology | GoBabyGo!").
 
 ## Team Members
-Yasmeen Hernandez | Brian Massura | Ben Ng
-Shannon O'Donnell | Alex Riegler | Rachel Wiesbrock
+Research & Development: Yasmeen Hernandez, Brian Massura, Ben Ng, Shannon O'Donnell, Alex Riegler, Rachel Wiesbrock
+
+CAD Modelers: Ben Ng, Shannon O'Donnell
+
+Github Maintainer: Alex Riegler
