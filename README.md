@@ -37,6 +37,9 @@ The final step of this project was to pitch our idea to the class. Below you wil
 ## Setup
 You can find all of the assemblies (.iam) and parts (.ipt) for our final 3D model within this repository. All of the non-custom parts can be found on [GrabCAD](https://grabcad.com/ "GrabCAD"). Of course, we did not physically fabricate our vehicle so we cannot guarantee that the vehicle is actually real-world ready.
 
+## Status
+Project is: _in progress_
+
 ## Team Members
 Yasmeen Hernandez | Brian Massura | Ben Ng
 Shannon O'Donnell | Alex Riegler | Rachel Wiesbrock
