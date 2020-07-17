@@ -22,6 +22,7 @@ The final step of this project was to pitch our idea to the class. Below you wil
 # "Slides" (Placeholder) 
 
 ## Media
+![Earliest draft of the vehicle design](./Images/Sketch00.jpg "Earlier sketch")
 ![Early draft of the vehicle design](./Images/Sketch01.png "Early sketch")
 
 ## Team Members
