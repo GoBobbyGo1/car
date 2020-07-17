@@ -3,8 +3,8 @@
 
 ## Table of Contents
 * [General Info](#general-info)
+* [Images](#images)
 * [Team Members](#team-members)
-* [Media](#media)
 
 ## General Info
 This project began with the intention of working with the [GoBabyGo program](https://sites.udel.edu/gobabygo/ "UD Mobility Technology | GoBabyGo!") of the charity organization [Variety of Illinois](https://www.varietyofillinois.org/ "Variety of Illinois"). Unfortunately, plans changed due to unforseen circumstances. Instead of working with Variety, we instead set out to achieve the same goal as the GoBabyGo program despite not having an actual client to work with. We began by constructing a persona, Bobby.
@@ -21,7 +21,7 @@ The final step of this project was to pitch our idea to the class. Below you wil
 
 # "Slides" (Placeholder) 
 
-## Media
+## Images
 <img src="./Images/Sketch00.jpg" alt="Earliest draft of the vehicle design">
 <img src="./Images/Sketch01.png" alt="Early draft of the vehicle design">
 
