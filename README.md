@@ -22,8 +22,9 @@ The final step of this project was to pitch our idea to the class. Below you wil
 # "Slides" (Placeholder) 
 
 ## Images
-[View all images](./Images "Images folder")
 ![Early draft of the vehicle design](./Images/Sketch01.png "Earlist sketch")
+
+[View all images](./Images "Images folder")
 
 ## Team Members
 Yasmeen Hernandez | Brian Massura | Ben Ng
