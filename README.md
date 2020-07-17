@@ -7,6 +7,7 @@
   * [Early draft of the vehicle design](#early-draft-of-the-vehicle-design)
   * [Final 3D model](#final-3d-model)
 * [Setup](#setup)
+* [Status](#status)
 * [Team Members](#team-members)
 
 ## General Info
