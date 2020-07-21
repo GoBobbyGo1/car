@@ -22,9 +22,9 @@ Our goal at this point was to come up with a solution to help make Bobby feel mo
 
 Following the creation of our persona, we began our research for our project. Eventually, we came to the conclusion that designing a children's electric vehicle with accomadations for Bobby would be the best route. Unfortunately, due to the circumstances of the time ([COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/ "Coronavirus Disease 2019 (COVID-19) | CDC")), we were unable to physically fabricate our vehicle design. Instead, we created a 3D model using Autodesk Inventor. The main features of the model car are a steering wheel with buttons for acceleration and braking and a frame on the car to allow Bobby to assist himself into the vehicle.
 
-The final step of this project was to pitch our idea to the class. Below you will find the slides presentation when they are completed.
+The final step of this project was to pitch the idea to the class. You can view the final pitch slides [here](./GoBobbyGoSlides.pdf "GoBobbyGo Slides").
 
-# "Slides" (Placeholder) 
+A video of the presentaion will be linked soon.
 
 ## Images
 ### Early draft of the vehicle design
